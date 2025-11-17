@@ -1,11 +1,6 @@
-<h1 align="center">Waz Up Doc!</h1>
-
-<div align="center">
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ4anNrMm1rdnBkbTN0ZGU1cWx0a2VzN3lmN2g5eTI2aml3cng0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pNug6VsMANqKtTA1yR/giphy.gif
-</div>
+<h1 align="center">Waz Up Doc!<br>  — I’m Susan Arraez — </h1>
 
 <div align="left">
-<h3> — I’m Susan Arraez — </h3>
 <p><strong>Part designer, Part developer, Full-time creator.</strong><br>
 I get a kick out of creating something that didn’t exist before.<br>
 I leave my mark and make a difference by creating meaningful design that share stories and connect people.<br>
