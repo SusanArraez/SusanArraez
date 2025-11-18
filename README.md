@@ -8,7 +8,7 @@ I leave my mark and make a difference by creating meaningful design that share s
 <strong>Life without challenges is boring!</strong>
 <br>
 I love taking on new projects and opportunities to sharpen my skills and gain more knowledge.<br>
-They do say knowledge is power--I could be a hero.<br></p>
+They do say knowledge is power--Let's powerup<br></p>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
