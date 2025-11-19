@@ -25,7 +25,7 @@ They do say knowledge is power--Let's powerup<br></p>
     <p>Arizona Refugee Center Website Redesign</p>
     <p>Arizona Refugee Center is a nonprofit organization dedicated to make sure all are welcomed with a warm embrace.<br>
     They offer services to help with becoming self-sufficent and integrate into a new community.<br>
-      They needed a website that reflected their values! Ckeck out my work!
+      They needed a website that reflected their values! Check out my work!
     </p>
   
   <strong>🌱 I’m currently learning</strong>
@@ -36,7 +36,7 @@ They do say knowledge is power--Let's powerup<br></p>
     <p>arraezsusan@gmail.com</p>
   
   <strong>⚡ Fun fact</strong>
-   <p>I am obsessed with sloths! They are too cute.</p>
+   <p>I am obsessed with sloths! They are too cute!</p>
 </section>
 
 <h3>Langages</h3>
