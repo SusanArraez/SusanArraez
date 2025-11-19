@@ -20,19 +20,24 @@ They do say knowledge is power--Let's powerup<br></p>
 </p>
 
 <h2 align="center">👩‍💻  About Me</h2>
-
-- 🔭 I’m currently working on
-- **Arizona Refugee Center Website Redesign**
-
-- 🌱 I’m currently learning
-- **JavaScript**
-
-- 📫 How to reach me
-- **arraezsusan@gmail.com**
-
-- ⚡ Fun fact
-**I am obsessed with sloths**
-
+<section>
+  <strong>🔭 I’m currently working on</strong>
+    <p>Arizona Refugee Center Website Redesign</p>
+    <p>Arizona Refugee Center is a nonprofit organization dedicated to make sure all are welcomed with a warm embrace.<br>
+    They offer services to help with becoming self-sufficent and integrate into a new community.<br>
+      They needed a website that reflected their values! Ckeck out my work!
+    </p>
+  
+  <strong>🌱 I’m currently learning</strong>
+    <p>JavaScript<br></p>
+    <p>I am currently a student at ASU majoring in full-stack web development</p>
+  
+  <strong> 📫 How to reach me</strong>
+    <p>arraezsusan@gmail.com</p>
+  
+  <strong>⚡ Fun fact</strong>
+   <p>I am obsessed with sloths! They are too cute.</p>
+</section>
 
 <h3>Langages</h3>
 <div align="left">
