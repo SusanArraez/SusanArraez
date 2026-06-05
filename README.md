@@ -20,13 +20,6 @@ They do say knowledge is power--Let's powerup<br></p>
 </p>
 
 <h2 align="center">👩‍💻  About Me</h2>
-<section>
-  <strong>🔭 I’m currently working on</strong>
-    <p>Arizona Refugee Center Website Redesign</p>
-    <p>Arizona Refugee Center is a nonprofit organization dedicated to make sure all are welcomed with a warm embrace.<br>
-    They offer services to help with becoming self-sufficent and integrate into a new community.<br>
-      They needed a website that reflected their values! Check out my work!
-    </p>
   
   <strong>🌱 I’m currently learning</strong>
     <p>JavaScript<br></p>
